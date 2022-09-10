@@ -8,7 +8,7 @@ I am a passionate self-taught web developer, Keen on experimenting with new web 
 * 🖥️  See my portfolio at [https://bibhu-padhy.web.app/](http://bibhu-padhy.web.app/)
 * ✉️  You can contact me at [bibhupadhy140@gmail.com](mailto:bibhupadhy140@gmail.com)
 * 🚀  I'm currently working on [Tracker](http://t-racker.web.app/)
-* 🧠  I'm learning vue
+* 🧠  I'm learning solidity
 
 ### Skills
 
