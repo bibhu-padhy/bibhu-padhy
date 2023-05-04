@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bibhu padhy
 ===================================================================================================================================
 
-I am a passionate self-taught web developer, Keen on experimenting with new web technologies. Currently working at Project10k as a senior software engineer
+I am a passionate self-taught web developer, Keen on experimenting with new web technologies. Currently working at WinSupply as a senior software engineer
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * 🌍  I'm based in India, Hyderabad
